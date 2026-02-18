@@ -1,0 +1,11 @@
+numpy
+pandas
+pyarrow
+duckdb
+pytz
+yfinance
+pandas_market_calendars
+tqdm
+matplotlib
+jupyter
+ipykernel
